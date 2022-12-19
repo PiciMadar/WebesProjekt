@@ -1,2 +1,2 @@
 # WebesProjekt
-WebesProjekt, Jiraval, IKTra
+WebesProjekt, Jiraval, IKTra.
