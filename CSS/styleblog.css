@@ -1,0 +1,23 @@
+
+#cim{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 10px;
+    top: 130px;
+
+    background: #EAC691;
+
+    border-radius: 30px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 40px;
+    text-align: left;
+    width: 246px;
+    height: 43px;
+    left: 10px;
+    color: #000000;
+}
