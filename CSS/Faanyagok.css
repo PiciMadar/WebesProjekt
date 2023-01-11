@@ -6,6 +6,7 @@
 
 .nyirfakartya {
     margin-left:50px;
+    border-radius: 31px;
 }
 
 .vasarlasgomb {}
@@ -13,4 +14,8 @@
 .cim{
     text-align: center;
     font-size: 30px;
+}
+
+img {
+    border-radius: 25%;
 }
