@@ -20,6 +20,9 @@
     left: 10px;
     color: #000000;
 }
-th {
+tbody,thead {
   background-color: #F0D7B0;
+}
+.csik {
+  background-color: #f5e7d0;
 }
