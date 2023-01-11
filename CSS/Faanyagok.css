@@ -18,4 +18,5 @@
 
 img {
     border-radius: 25%;
+    border-top-left-radius: 50%;
 }
