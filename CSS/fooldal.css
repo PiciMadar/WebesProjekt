@@ -31,12 +31,15 @@ tbody,thead {
   border-style: solid;
   border-color: #EAC691;
   border-width: 15px;
+
 }
 
 .vazlat {
   margin:20px;
+  padding:20px;
   position: relative;
-  width:550px;
+  width:580px;
+  
   
 }
 
