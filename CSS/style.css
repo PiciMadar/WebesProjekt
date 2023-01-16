@@ -13,10 +13,9 @@ body {
     border-radius: 31px;
 }
 
-
 .körvonal {
     border-style: solid;
-    border-width: 8px;
+    border-width: 5px;
     border-color: #e0d6c5;
     border-radius: 28px;
 }
