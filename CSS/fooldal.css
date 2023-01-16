@@ -31,6 +31,7 @@ tbody,thead {
   border-style: solid;
   border-color: #EAC691;
   border-width: 15px;
+  float:right;
 
 }
 
