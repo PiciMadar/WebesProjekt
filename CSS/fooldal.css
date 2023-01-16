@@ -33,15 +33,11 @@ tbody,thead {
   border-color: #EAC691;
   border-width: 15px;
   float:right;
-
 }
 
 .vazlat {
   margin:20px;
-  padding:20px;
   position: relative;
-  width:580px;
-  
-  
+  width:550px;
 }
 
