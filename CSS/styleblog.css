@@ -26,8 +26,10 @@
     border-radius: 30px;
 }
 
-#vazlat {
-    
+.vazlat {
+    border-style: solid;
+    border-color:#d8a14f;
+    border-width: 40px;
 }
 
 
