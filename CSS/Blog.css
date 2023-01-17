@@ -14,9 +14,9 @@
     
 
 }
-img{
- float:right;
- border-radius: 500px;
+.cerna{
+    height:100px;
+    
 }
 
 .dio{
@@ -29,4 +29,14 @@ img{
     background: #EAC691;
 
     border-radius: 30px;
+}
+.ize{
+    height:100px;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.row{
+    padding:20px;
+
 }
