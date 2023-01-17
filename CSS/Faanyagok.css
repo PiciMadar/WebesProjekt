@@ -19,3 +19,7 @@ img {
     border-radius: 25%;
     border-top-left-radius: 50%;
 }
+
+.körvonal {
+    border-radius: 58px;
+}
