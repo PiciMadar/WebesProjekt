@@ -6,7 +6,12 @@
 
 
 }
-
+.margit{
+    margin-top: 20px;
+}
+.miko{
+    margin-bottom: 20px;
+}
 .eberne{
     margin:20px;
     padding:20px;
@@ -16,6 +21,7 @@
 }
 .cerna{
     height:100px;
+    width: 100%;
     
 }
 
