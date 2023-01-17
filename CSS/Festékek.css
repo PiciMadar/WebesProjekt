@@ -7,10 +7,18 @@
 .nyirfakartya {
     margin-left:50px;
     border-radius: 31px;
+    margin-bottom: 30px;
 }
 
-.vasarlasgomb {}
-
+.vasarlasgomb {
+    background-color: #F0D7B0;
+    color: black;
+    border-width: 0px;
+}
+.vasarlasgomb:hover {
+    background-color: #F0D7B0;
+    color: black;
+}
 .cim{
     text-align: center;
     font-size: 30px;

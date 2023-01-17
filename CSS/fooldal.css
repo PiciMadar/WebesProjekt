@@ -19,7 +19,8 @@
 }
 tbody,thead {
   background-color: #F0D7B0;
-  border-radius: 30px;
+  
+  
   
 }
 .csik {
@@ -31,13 +32,12 @@ tbody,thead {
   border-style: solid;
   border-color: #EAC691;
   border-width: 15px;
+  float:right;
 }
 
 .vazlat {
   margin:20px;
   position: relative;
   width:550px;
-  border: #EAC691;
-  
 }
 

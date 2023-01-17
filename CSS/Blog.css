@@ -1,0 +1,31 @@
+.eber {
+    margin:20px;
+    padding:20px;
+    position: relative;
+    width:580px;
+
+
+}
+
+.eberne{
+    margin:20px;
+    padding:20px;
+    position: relative;
+    
+
+}
+img{
+ float:right;
+}
+
+.dio{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    left: 10px;
+    top: 130px;
+
+    background: #EAC691;
+
+    border-radius: 30px;
+}
