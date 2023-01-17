@@ -26,3 +26,6 @@ tbody,thead {
   padding-left: 0px;
 }
 
+.container-fluid{
+  width:100%;
+}
