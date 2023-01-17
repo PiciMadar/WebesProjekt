@@ -40,3 +40,6 @@ tbody,thead {
   padding: 20px;
 }
 
+.container-fluid{
+  width:100%;
+}
