@@ -1,21 +1,6 @@
 .cim{
-    position: absolute;
-    width: 200px;
-    height: 50px;
-    left: 10px;
-    top: 130px;
-
-    background: #EAC691;
-
-    border-radius: 30px;
-
-    font-family: 'Inter';
-    font-style: italic;
-    font-weight: 800;
-    font-size: 35px;
-    line-height: 40px;
-    text-align: center;
-    color: #000000;
+  text-align: center;
+  font-size: 30px;
 }
 tbody,thead {
   background-color: #F0D7B0;
@@ -34,9 +19,10 @@ tbody,thead {
 }
 
 .vazlat {
-  
   margin:20px;
-  position: relative;
-  padding: 20px;
+  padding:20px;
+}
+.pad {
+  padding-left: 0px;
 }
 
