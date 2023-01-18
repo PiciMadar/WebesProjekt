@@ -4,6 +4,7 @@
 }
 .thicc{
     font-weight: bolder;
+    font-size: 20px;
 }
 body {
     background-color:#f5efe4 ;
@@ -18,4 +19,7 @@ body {
     border-width: 5px;
     border-color: #e0d6c5;
     border-radius: 28px;
+}
+.meret{
+    font-size: 20px;
 }
