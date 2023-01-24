@@ -10,11 +10,12 @@
 
 .cim{
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     width:100%;
 }
 
 #baltakep {
+    width: 200px;
     border-radius: 28px;
     border-style: solid;
     border-width: 8px;
